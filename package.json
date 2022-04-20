@@ -10,8 +10,9 @@
   },
   "dependencies": {
     "express": "^4.17.3",
-    "knex": "^1.0.7",
-    "sqlite": "^4.0.25"
+    "knex": "^0.95.13",
+    "sqlite": "^4.0.25",
+    "sqlite3": "^5.0.4"
   },
   "devDependencies": {
     "@types/jest": "^27.4.1",
